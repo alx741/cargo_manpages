@@ -11,7 +11,7 @@ cargo-build - Compile the current project
 
 
 # DESCRIPTION
-This command compiles the current project.
+Compile a local package and all of its dependencies.
 
 If the **--package** argument is given, then *SPEC* is a package id
 specification which indicates which package should be built. If it is not given,
