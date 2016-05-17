@@ -5,6 +5,7 @@ MAN1 += cargo-clean.md
 MAN1 += cargo-doc.md
 MAN1 += cargo-new.md
 MAN1 += cargo-init.md
+MAN1 += cargo-run.md
 
 all: $(patsubst %.md, %.1, $(MAN1))
 
