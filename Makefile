@@ -7,6 +7,7 @@ MAN1 += cargo-new.md
 MAN1 += cargo-init.md
 MAN1 += cargo-run.md
 MAN1 += cargo-test.md
+MAN1 += cargo-bench.md
 
 all: $(patsubst %.md, %.1, $(MAN1))
 
