@@ -1,6 +1,7 @@
 MAN1 =
 MAN1 += cargo.md
 MAN1 += cargo-build.md
+MAN1 += cargo-clean.md
 
 all: $(patsubst %.md, %.1, $(MAN1))
 
