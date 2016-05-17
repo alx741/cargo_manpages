@@ -11,6 +11,7 @@ MAN1 += cargo-bench.md
 MAN1 += cargo-update.md
 MAN1 += cargo-search.md
 MAN1 += cargo-publish.md
+MAN1 += cargo-install.md
 
 
 all: $(patsubst %.md, %.1, $(MAN1))
