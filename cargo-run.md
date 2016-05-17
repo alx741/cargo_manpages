@@ -28,20 +28,14 @@ the ones before go to Cargo.
 -h, --help
 :   Print this message.
 
--p *SPEC*, --package *SPEC ...*
-:   Package to build.
-
--j *IN*, --jobs *IN*
-:   The number of jobs to run in parallel.
-
---lib
-:   Build only this package's library.
-
 --bin *NAME*
 :   Name of the bin target to run.
 
 --example *NAME*
 :   Name of the example target to run.
+
+-j *IN*, --jobs *IN*
+:   The number of jobs to run in parallel.
 
 --release
 :   Build artifacts in release mode, with optimizations.
