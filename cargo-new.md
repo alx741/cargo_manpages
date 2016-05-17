@@ -49,7 +49,7 @@ Create a binary cargo package in the current directory
 
 
 # SEE ALSO
-cargo(1)
+cargo(1), cargo-init(1)
 
 
 # COPYRIGHT
