@@ -44,6 +44,9 @@ results readable. Test output can be recovered (e.g. for debugging) by passing
 --lib
 :   Test only this package's library.
 
+--doc
+:   Test only this library's documentation
+
 --bin *NAME*
 :   Test only the specified binary.
 
