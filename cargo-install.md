@@ -79,6 +79,9 @@ The **--list** option will list all installed packages (and their versions).
 --features *FEATURES*
 :   Space-separated list of features to activate.
 
+-f, --force
+:   Force overwriting existing crates or binaries
+
 --no-default-features
 :   Do not build the `default` feature.
 
