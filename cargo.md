@@ -26,6 +26,9 @@ This program is a package manager for the Rust language, available at
 --list
 :   List all available cargo commands.
 
+--explain CODE
+:   Run `rustc --explain CODE`
+
 -v, --verbose
 :   Use verbose output.
 
